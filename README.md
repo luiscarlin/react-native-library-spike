@@ -13,7 +13,7 @@
 
 
 #### iOS
-
+git lo
 1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
 2. Go to `node_modules` ➜ `react-native-library-spike` and add `RNLibrarySpike.xcodeproj`
 3. In XCode, in the project navigator, select your project. Add `libRNLibrarySpike.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
@@ -50,4 +50,3 @@ import RNLibrarySpike from 'react-native-library-spike';
 // TODO: What to do with the module?
 RNLibrarySpike;
 ```
-  

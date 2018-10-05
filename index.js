@@ -5,4 +5,4 @@ const { RNLibrarySpike } = NativeModules;
 
 // export default RNLibrarySpike;
 
-export default "Hello world 3"
+export default "Hello world 4"
